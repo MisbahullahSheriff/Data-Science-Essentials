@@ -9,4 +9,4 @@
 - Evaluating ML Models
 - And many more
 
-### PS: This repository is a work in progress. I'll be updating it continually.
+### Note: This repository is a work in progress. I'll be updating it continually.
