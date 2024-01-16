@@ -7,6 +7,7 @@
 - Data Preprocessing
 - Training ML Models
 - Evaluating ML Models
+- Feature Engineering
 - And many more
 
 ### Note: This repository is a work in progress. I'll be updating it continually.
